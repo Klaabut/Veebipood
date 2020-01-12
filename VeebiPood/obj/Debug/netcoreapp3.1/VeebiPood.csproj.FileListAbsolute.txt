@@ -1,0 +1,11 @@
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\bin\Debug\netcoreapp3.1\VeebiPood.exe
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\bin\Debug\netcoreapp3.1\VeebiPood.deps.json
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\bin\Debug\netcoreapp3.1\VeebiPood.runtimeconfig.json
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\bin\Debug\netcoreapp3.1\VeebiPood.runtimeconfig.dev.json
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\bin\Debug\netcoreapp3.1\VeebiPood.dll
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\bin\Debug\netcoreapp3.1\VeebiPood.pdb
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\obj\Debug\netcoreapp3.1\VeebiPood.csprojAssemblyReference.cache
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\obj\Debug\netcoreapp3.1\VeebiPood.AssemblyInfoInputs.cache
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\obj\Debug\netcoreapp3.1\VeebiPood.AssemblyInfo.cs
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\obj\Debug\netcoreapp3.1\VeebiPood.dll
+C:\Users\karlp\Desktop\VS\VeebiPood\VeebiPood\obj\Debug\netcoreapp3.1\VeebiPood.pdb
